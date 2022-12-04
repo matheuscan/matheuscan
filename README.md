@@ -8,4 +8,4 @@
 
 # My Skills
 
-![https://nodejs.org]("/images/node.js")
+![https://nodejs.org](/images/node.js)
