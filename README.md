@@ -8,4 +8,4 @@
 
 # My Skills
 
-![NodeJS] /images/nodejs.png ![MySQL] /images/mysql.png ![MongoDB]  /images/mongo.png
+![NodeJS](/images/nodejs.png) ![MySQL](/images/mysql.png) ![MongoDB](/images/mongo.png)
