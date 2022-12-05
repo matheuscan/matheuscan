@@ -8,4 +8,4 @@
 
 # My Skills
 
-![https://nodejs.org](/images/nodejs.png) ![https://www.mysql.com](/images/mysql.png) ![https://www.mongodb.com](/images/mongo.png)
+![NodeJS]: https://nodejs.org (/images/nodejs.png) ![MySQL]: https://www.mysql.com (/images/mysql.png) ![MongoDB]: https://www.mongodb.com (/images/mongo.png)
