@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning backend developmen
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me:
-- email: germanmatheus.dev@gmail.com
+- email: germanmatheus@proton.me
 
 # My Skills
 
