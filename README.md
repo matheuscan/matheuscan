@@ -1,11 +1,10 @@
-<html>
-
-  <head>
-    <link rel="stylesheet" href="/readme.css"/>
-  </head>
-<body>
-  <h1>Who am I</h1>
- <p>👋 Hi, I’m @matheuscan</p>
+<style>
+  h1 {
+    color: green;
+  }
+</style>
+<h1>Who am I</h1>
+<p>👋 Hi, I’m @matheuscan</p>
 <p>👀 I’m interested in web development, outside programming i like to test new technologies like VR</p> 
 <p>🌱 I’m currently learning backend developmen</p>
 <p>💞️ I’m looking to collaborate on web projects</p>
