@@ -1,7 +1,7 @@
 <html>
 
   <head>
-    <link rel="stylesheet" href="/styles/readme.css"/>
+    <link rel="stylesheet" href="/readme.css"/>
   </head>
 <body>
   <h1>Who am I</h1>
