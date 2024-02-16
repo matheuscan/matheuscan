@@ -1,9 +1,9 @@
 <style>
-  h1 {
+  .heading1 {
     color: green;
   }
 </style>
-<h1>Who am I</h1>
+# Who am I {.heading1}
 <p>👋 Hi, I’m @matheuscan</p>
 <p>👀 I’m interested in web development, outside programming i like to test new technologies like VR</p> 
 <p>🌱 I’m currently learning backend developmen</p>
