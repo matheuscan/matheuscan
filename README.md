@@ -3,7 +3,7 @@
     color: green;
   }
 </style>
-# Who am I {.heading1}
+<h1 class="heading1">Who am I </h1>
 <p>👋 Hi, I’m @matheuscan</p>
 <p>👀 I’m interested in web development, outside programming i like to test new technologies like VR</p> 
 <p>🌱 I’m currently learning backend developmen</p>
@@ -16,4 +16,4 @@
 ![NodeJS](/images/nodejs.png) ![MySQL](/images/mysql.png) ![MongoDB](/images/mongo.png)
 </body>
  
-</htmlk>
+
