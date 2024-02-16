@@ -1,15 +1,11 @@
-<style>
-  .heading1 {
-    color: green;
-  }
-</style>
-<h1 class="heading1">Who am I </h1>
-<p>👋 Hi, I’m @matheuscan</p>
-<p>👀 I’m interested in web development, outside programming i like to test new technologies like VR</p> 
-<p>🌱 I’m currently learning backend developmen</p>
-<p>💞️ I’m looking to collaborate on web projects</p>
-<p>📫 How to reach me:</p>
-<p>email: <a>germanmatheus@proton.me</a></p>
+
+# Who am I 
+ - 👋 Hi, I’m @matheuscan
+ - 👀 I’m interested in web development, outside programming i like to test new technologies like VR
+ - 🌱 I’m currently learning backend developmen
+ - 💞️ I’m looking to collaborate on web projects
+ - 📫 How to reach me:
+ - email: germanmatheus@proton.me
 
 # My Skills
 
