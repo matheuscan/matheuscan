@@ -1,4 +1,9 @@
-﻿# Who Am I
+<html>
+
+  <head>
+    <link rel="stylesheet" href="/styles/readme.css"/>
+  </head>
+ <h1>Who am I</h1>
 - 👋 Hi, I’m @matheuscan
 - 👀 I’m interested in web development, outside programming i like to test new technologies like VR 
 - 🌱 I’m currently learning backend developmen
@@ -9,3 +14,4 @@
 # My Skills
 
 ![NodeJS](/images/nodejs.png) ![MySQL](/images/mysql.png) ![MongoDB](/images/mongo.png)
+</htmlk>
