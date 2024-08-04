@@ -9,10 +9,11 @@
 
 # My Skills
 
-![NodeJS](/images/nodejs.png) ![MySQL](/images/mysql.png) ![MongoDB](/images/mongo.png)
+![NodeJS](/images/nodejs-icon-logo.png) ![MySQL](/images/mysql.png) ![Python](/images/python.png) ![SQL](/images/sql.png) ![Postgres](/images/postgresql.png) ![Bash](/images/bash.png) ![Linux](/images/linux.png) 
 
 # Currently Learning
 
+![Rust](/images/rust.png) ![Docker](/images/docker.png)
 </body>
  
 
