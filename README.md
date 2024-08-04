@@ -10,6 +10,9 @@
 # My Skills
 
 ![NodeJS](/images/nodejs.png) ![MySQL](/images/mysql.png) ![MongoDB](/images/mongo.png)
+
+# Currently Learning
+
 </body>
  
 
