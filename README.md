@@ -1,9 +1,9 @@
 
 # About me
  - 👋 Hi, I’m @matheuscan
- - 👀 I’m interested in web development, outside programming i like to test new technologies like VR
- - 🌱 I’m currently learning backend developmen
- - 💞️ I’m looking to collaborate on web projects
+ - 👀 I’m interested in web development, outside programming I like to try new technologies like VR
+ - 🌱 I’m currently learning backend development
+ - 💞️ I’m looking to collaborate in open source projects
  - 📫 How to reach me:
  - email: germanmatheus@proton.me
 
@@ -13,7 +13,7 @@
 
 # Currently Learning
 
-![Rust](/images/rust.png) ![Docker](/images/docker.png)
+![Rust](/images/rust.png) ![Docker](/images/docker.png) ![Odoo](/images/odoo.png)
 </body>
  
 
